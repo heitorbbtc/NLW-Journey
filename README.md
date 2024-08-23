@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Projeto Journey" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Journey" src="./assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
