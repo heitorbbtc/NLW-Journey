@@ -8,7 +8,7 @@ const formatador = (data) => {
             }
         },
         mes: dayjs(data).format('MMMM'),
-        hora: dayjs(data).format('HH:MM')
+        hora: dayjs(data).format('HH:mm')
         
     }
 }
