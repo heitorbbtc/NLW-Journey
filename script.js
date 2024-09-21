@@ -23,7 +23,7 @@ const atividade = {
 let atividades =  [
     atividade,
     {
-        nome: 'Acaddemia em grupo',
+        nome: 'Academia em grupo',
         data: new Date("2024-07-08 12:00"),
         finalizada: false
     },
